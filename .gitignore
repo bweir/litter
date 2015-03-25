@@ -30,3 +30,9 @@ Makefile*
 #QtCtreator Qml
 *.qmlproject.user
 *.qmlproject.user.*
+
+# lit stuff
+*.spin
+*.spin.lit
+*.spin.html
+litter
