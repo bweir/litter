@@ -33,6 +33,7 @@ Makefile*
 
 # lit stuff
 *.spin
-*.spin.lit
 *.spin.html
+*.spin.md
+.*.spin.lit
 litter
