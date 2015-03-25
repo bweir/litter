@@ -1,6 +1,6 @@
-# litter
+# litter - *a tiny editor for literate programming*
 
-**litter** is an IDE for literate programming. It allows you to write code and documentation within the same source file but work on them as if they were separate.
+**litter** allows you to write code and documentation within the same source file but work on them as if they were separate.
 
 ![litter screenshot](screenshots/litter_019.png)
 
