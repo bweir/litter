@@ -1,4 +1,4 @@
-# litter - *a tiny editor for literate programming*
+# litter - *an editor for literate programming*
 
 **litter** allows you to write code and documentation within the same source file but work on them as if they were separate.
 
